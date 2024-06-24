@@ -1,0 +1,2426 @@
+([('Forestfall',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/build/Forrestfall/Forestfall',
+   'EXECUTABLE'),
+  ('lib-dynload/_struct.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_struct.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/zlib.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/zlib.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('Python.framework/Versions/3.11/Python',
+   '/Library/Frameworks/Python.framework/Versions/3.11/Python',
+   'BINARY'),
+  ('lib-dynload/_typing.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_typing.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/grp.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/grp.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/math.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/math.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/select.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/select.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_posixsubprocess.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_posixsubprocess.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/fcntl.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/fcntl.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_pickle.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_pickle.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/binascii.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/binascii.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/resource.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/resource.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_lzma.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_lzma.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_bz2.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_bz2.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/unicodedata.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/unicodedata.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_datetime.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_datetime.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/array.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/array.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_socket.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_socket.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_statistics.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_statistics.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_contextvars.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_contextvars.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_decimal.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_decimal.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_hashlib.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_hashlib.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha3.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_sha3.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_blake2.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_blake2.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha256.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_sha256.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_md5.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_md5.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha1.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_sha1.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha512.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_sha512.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_random.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_random.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_bisect.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_bisect.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_ctypes.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_ctypes.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('markupsafe/_speedups.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/markupsafe/_speedups.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_json.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_json.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_csv.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_csv.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_ssl.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_ssl.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_queue.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_queue.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/mmap.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/mmap.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_posixshmem.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_posixshmem.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_multiprocessing.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_multiprocessing.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/pyexpat.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/pyexpat.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_scproxy.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_scproxy.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/termios.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/termios.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_asyncio.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_asyncio.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/readline.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/readline.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_opcode.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_opcode.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_multibytecodec.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_multibytecodec.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_jp.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_codecs_jp.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_kr.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_codecs_kr.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_iso2022.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_codecs_iso2022.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_cn.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_codecs_cn.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_tw.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_codecs_tw.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_hk.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_codecs_hk.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_heapq.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_heapq.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/mixer.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/mixer.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/core/_multiarray_tests.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/_multiarray_tests.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/core/_multiarray_umath.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/_multiarray_umath.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/linalg/_umath_linalg.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/linalg/_umath_linalg.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/mtrand.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/mtrand.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_sfc64.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/_sfc64.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_philox.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/_philox.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_pcg64.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/_pcg64.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_mt19937.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/_mt19937.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/bit_generator.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/bit_generator.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_generator.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/_generator.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_bounded_integers.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/_bounded_integers.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_common.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/_common.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/fft/_pocketfft_internal.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/fft/_pocketfft_internal.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/imageext.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/imageext.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/scrap.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/scrap.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/mixer_music.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/mixer_music.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/font.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/font.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/_freetype.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/_freetype.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/transform.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/transform.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/time.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/time.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/pixelarray.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/pixelarray.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/mask.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/mask.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/surface.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/surface.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/pixelcopy.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/pixelcopy.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/mouse.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/mouse.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/key.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/key.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/joystick.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/joystick.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/image.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/image.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/event.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/event.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/draw.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/draw.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/display.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/display.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/math.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/math.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/bufferproxy.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/bufferproxy.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/color.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/color.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/surflock.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/surflock.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/rwobject.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/rwobject.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/rect.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/rect.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/constants.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/constants.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('pygame/base.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/base.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('numpy/.dylibs/libquadmath.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/.dylibs/libquadmath.0.dylib',
+   'BINARY'),
+  ('numpy/.dylibs/libgcc_s.1.1.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/.dylibs/libgcc_s.1.1.dylib',
+   'BINARY'),
+  ('numpy/.dylibs/libgfortran.5.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/.dylibs/libgfortran.5.dylib',
+   'BINARY'),
+  ('libcrypto.1.1.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/libcrypto.1.1.dylib',
+   'BINARY'),
+  ('libssl.1.1.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/libssl.1.1.dylib',
+   'BINARY'),
+  ('libncursesw.5.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/libncursesw.5.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libSDL2_mixer-2.0.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libSDL2_mixer-2.0.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libSDL2-2.0.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libSDL2-2.0.0.dylib',
+   'BINARY'),
+  ('numpy/.dylibs/libopenblas64_.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/.dylibs/libopenblas64_.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libSDL2_image-2.0.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libSDL2_image-2.0.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libjpeg.62.3.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libjpeg.62.3.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libpng16.16.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libpng16.16.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libSDL2_ttf-2.0.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libSDL2_ttf-2.0.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libfreetype.6.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libfreetype.6.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libFLAC.8.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libFLAC.8.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libopusfile.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libopusfile.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libopus.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libopus.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libvorbisfile.3.3.8.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libvorbisfile.3.3.8.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libmpg123.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libmpg123.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libogg.0.8.5.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libogg.0.8.5.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libfluidsynth.3.1.1.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libfluidsynth.3.1.1.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libtiff.5.8.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libtiff.5.8.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libsharpyuv.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libsharpyuv.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libz.1.2.11.zlib-ng.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libz.1.2.11.zlib-ng.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libwebp.7.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libwebp.7.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libbrotlidec.1.0.9.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libbrotlidec.1.0.9.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libvorbis.0.4.9.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libvorbis.0.4.9.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libsndfile.1.0.34.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libsndfile.1.0.34.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libglib-2.0.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libglib-2.0.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libgthread-2.0.0.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libgthread-2.0.0.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libintl.8.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libintl.8.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libbrotlicommon.1.0.9.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libbrotlicommon.1.0.9.dylib',
+   'BINARY'),
+  ('pygame/.dylibs/libvorbisenc.2.0.12.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/.dylibs/libvorbisenc.2.0.12.dylib',
+   'BINARY'),
+  ('data/extras/0.json',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/extras/0.json',
+   'DATA'),
+  ('data/extras/1.json',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/extras/1.json',
+   'DATA'),
+  ('data/extras/2.json',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/extras/2.json',
+   'DATA'),
+  ('data/extras/alt1.json',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/extras/alt1.json',
+   'DATA'),
+  ('data/fonts/Beholden-Bold-Italic.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/Beholden-Bold-Italic.ttf',
+   'DATA'),
+  ('data/fonts/Beholden-Bold.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/Beholden-Bold.ttf',
+   'DATA'),
+  ('data/fonts/Beholden-Italic.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/Beholden-Italic.ttf',
+   'DATA'),
+  ('data/fonts/Beholden-Medium-Italic.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/Beholden-Medium-Italic.ttf',
+   'DATA'),
+  ('data/fonts/Beholden-Medium.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/Beholden-Medium.ttf',
+   'DATA'),
+  ('data/fonts/Beholden-Regular.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/Beholden-Regular.ttf',
+   'DATA'),
+  ('data/fonts/Catholicon.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/Catholicon.ttf',
+   'DATA'),
+  ('data/fonts/CrimsonPro-Italic-VariableFont_wght.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/CrimsonPro-Italic-VariableFont_wght.ttf',
+   'DATA'),
+  ('data/fonts/CrimsonPro-Light.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/CrimsonPro-Light.ttf',
+   'DATA'),
+  ('data/fonts/CrimsonPro-VariableFont_wght.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/CrimsonPro-VariableFont_wght.ttf',
+   'DATA'),
+  ('data/fonts/DungeonFont.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/DungeonFont.ttf',
+   'DATA'),
+  ('data/fonts/Luminari.ttf',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/fonts/Luminari.ttf',
+   'DATA'),
+  ('data/images/arrow.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/arrow.png',
+   'DATA'),
+  ('data/images/backgrounds/altbg.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/altbg.png',
+   'DATA'),
+  ('data/images/backgrounds/background2.jpeg',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/background2.jpeg',
+   'DATA'),
+  ('data/images/backgrounds/background3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/background3.png',
+   'DATA'),
+  ('data/images/backgrounds/bg1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/bg1.png',
+   'DATA'),
+  ('data/images/backgrounds/bg2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/bg2.png',
+   'DATA'),
+  ('data/images/backgrounds/bg3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/bg3.png',
+   'DATA'),
+  ('data/images/backgrounds/informationscreen.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/informationscreen.png',
+   'DATA'),
+  ('data/images/backgrounds/loadingscreen.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/loadingscreen.png',
+   'DATA'),
+  ('data/images/backgrounds/title.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/title.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/00.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/01.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/02.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/03.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/04.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/05.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/06.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/07.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/07.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/08.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/08.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/09.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/09.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/10.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/11.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/12.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/13.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/13.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/14.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/14.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/15.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/15.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/16.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/16.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/17.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/17.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/18.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/18.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/19.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/19.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/20.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/20.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/21.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/21.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/22.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/22.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/23.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/23.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/24.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/24.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/25.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/25.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/26.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/26.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/27.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/27.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/28.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/28.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/29.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/29.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/30.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/30.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen/31.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen/31.png',
+   'DATA'),
+  ('data/images/backgrounds/titlescreen_1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/backgrounds/titlescreen_1.png',
+   'DATA'),
+  ('data/images/bow.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/bow.png',
+   'DATA'),
+  ('data/images/buttons/informationscreen/keybinds.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/informationscreen/keybinds.png',
+   'DATA'),
+  ('data/images/buttons/informationscreen/keys.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/informationscreen/keys.png',
+   'DATA'),
+  ('data/images/buttons/loadingscreen/back.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/loadingscreen/back.png',
+   'DATA'),
+  ('data/images/buttons/loadingscreen/enter.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/loadingscreen/enter.png',
+   'DATA'),
+  ('data/images/buttons/optionsscreen/back.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/optionsscreen/back.png',
+   'DATA'),
+  ('data/images/buttons/optionsscreen/fullscreen.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/optionsscreen/fullscreen.png',
+   'DATA'),
+  ('data/images/buttons/optionsscreen/windowed.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/optionsscreen/windowed.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_00.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_01.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_02.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_03.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_04.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_05.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_06.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_07.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_07.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_08.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_08.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_09.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_09.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_10.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_11.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_12.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_13.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_13.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_14.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_14.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_15.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_15.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_16.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_16.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_17.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_17.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_18.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_18.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_19.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_19.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_20.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_20.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_21.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_21.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/options/options_22.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/options/options_22.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_00.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_01.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_02.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_03.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_04.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_05.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_06.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_07.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_07.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_08.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_08.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_09.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_09.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_10.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_11.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_12.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_13.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_13.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_14.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_14.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_15.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_15.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_16.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_16.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_17.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_17.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_18.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_18.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_19.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_19.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_20.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_20.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_21.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_21.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/quit/quit_22.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/quit/quit_22.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_00.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_01.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_02.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_03.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_04.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_05.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_06.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_07.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_07.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_08.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_08.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_09.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_09.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_10.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_11.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_12.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_13.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_13.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_14.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_14.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_15.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_15.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_16.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_16.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_17.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_17.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_18.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_18.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_19.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_19.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_20.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_20.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_21.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_21.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/restart/restart_22.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/restart/restart_22.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_00.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_01.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_02.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_03.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_04.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_05.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_06.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_07.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_07.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_08.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_08.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_09.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_09.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_10.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_11.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_12.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_13.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_13.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_14.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_14.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_15.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_15.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_16.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_16.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_17.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_17.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_18.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_18.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_19.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_19.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_20.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_20.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_21.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_21.png',
+   'DATA'),
+  ('data/images/buttons/pausemenu/resume/resume_22.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/pausemenu/resume/resume_22.png',
+   'DATA'),
+  ('data/images/buttons/titlescreen/information.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/titlescreen/information.png',
+   'DATA'),
+  ('data/images/buttons/titlescreen/options.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/titlescreen/options.png',
+   'DATA'),
+  ('data/images/buttons/titlescreen/play.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/titlescreen/play.png',
+   'DATA'),
+  ('data/images/buttons/titlescreen/quit.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/buttons/titlescreen/quit.png',
+   'DATA'),
+  ('data/images/clouds/cloud_1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/clouds/cloud_1.png',
+   'DATA'),
+  ('data/images/clouds/cloud_2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/clouds/cloud_2.png',
+   'DATA'),
+  ('data/images/cursor.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/cursor.png',
+   'DATA'),
+  ('data/images/cursor1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/cursor1.png',
+   'DATA'),
+  ('data/images/data(later updates)/buttons/button.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/data(later '
+   'updates)/buttons/button.png',
+   'DATA'),
+  ('data/images/data(later updates)/images/a game title Forestfall Inferno '
+   'where the t in Forestfall is a sword facing downward. Remove.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/data(later updates)/images/a game '
+   'title Forestfall Inferno where the t in Forestfall is a sword facing '
+   'downward. Remove.png',
+   'DATA'),
+  ('data/images/data(later updates)/weapons/fire_sword.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/data(later '
+   'updates)/weapons/fire_sword.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/00.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/01.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/02.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/03.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/04.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/05.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/06.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/07.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/07.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/08.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/08.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/09.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/09.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/10.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/11.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/12.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/13.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/13.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/14.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/14.png',
+   'DATA'),
+  ('data/images/entities/enemy/idle/15.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/idle/15.png',
+   'DATA'),
+  ('data/images/entities/enemy/run/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/run/0.png',
+   'DATA'),
+  ('data/images/entities/enemy/run/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/run/1.png',
+   'DATA'),
+  ('data/images/entities/enemy/run/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/run/2.png',
+   'DATA'),
+  ('data/images/entities/enemy/run/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/run/3.png',
+   'DATA'),
+  ('data/images/entities/enemy/run/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/run/4.png',
+   'DATA'),
+  ('data/images/entities/enemy/run/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/run/5.png',
+   'DATA'),
+  ('data/images/entities/enemy/run/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/run/6.png',
+   'DATA'),
+  ('data/images/entities/enemy/run/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/enemy/run/7.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/00.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/01.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/02.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/03.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/04.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/05.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/06.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/07.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/07.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/08.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/08.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/09.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/09.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/10.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/11.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/12.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/13.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/13.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/14.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/14.png',
+   'DATA'),
+  ('data/images/entities/npc1/idle/15.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/idle/15.png',
+   'DATA'),
+  ('data/images/entities/npc1/run/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/run/0.png',
+   'DATA'),
+  ('data/images/entities/npc1/run/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/run/1.png',
+   'DATA'),
+  ('data/images/entities/npc1/run/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/run/2.png',
+   'DATA'),
+  ('data/images/entities/npc1/run/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/run/3.png',
+   'DATA'),
+  ('data/images/entities/npc1/run/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/run/4.png',
+   'DATA'),
+  ('data/images/entities/npc1/run/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/run/5.png',
+   'DATA'),
+  ('data/images/entities/npc1/run/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/run/6.png',
+   'DATA'),
+  ('data/images/entities/npc1/run/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc1/run/7.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/00.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/01.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/02.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/03.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/04.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/05.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/06.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/07.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/07.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/08.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/08.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/09.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/09.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/10.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/11.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/12.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/13.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/13.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/14.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/14.png',
+   'DATA'),
+  ('data/images/entities/npc2/idle/15.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/idle/15.png',
+   'DATA'),
+  ('data/images/entities/npc2/run/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/run/0.png',
+   'DATA'),
+  ('data/images/entities/npc2/run/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/run/1.png',
+   'DATA'),
+  ('data/images/entities/npc2/run/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/run/2.png',
+   'DATA'),
+  ('data/images/entities/npc2/run/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/run/3.png',
+   'DATA'),
+  ('data/images/entities/npc2/run/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/run/4.png',
+   'DATA'),
+  ('data/images/entities/npc2/run/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/run/5.png',
+   'DATA'),
+  ('data/images/entities/npc2/run/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/run/6.png',
+   'DATA'),
+  ('data/images/entities/npc2/run/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/npc2/run/7.png',
+   'DATA'),
+  ('data/images/entities/player.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player.png',
+   'DATA'),
+  ('data/images/entities/player/idle/00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/00.png',
+   'DATA'),
+  ('data/images/entities/player/idle/01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/01.png',
+   'DATA'),
+  ('data/images/entities/player/idle/02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/02.png',
+   'DATA'),
+  ('data/images/entities/player/idle/03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/03.png',
+   'DATA'),
+  ('data/images/entities/player/idle/04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/04.png',
+   'DATA'),
+  ('data/images/entities/player/idle/05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/05.png',
+   'DATA'),
+  ('data/images/entities/player/idle/06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/06.png',
+   'DATA'),
+  ('data/images/entities/player/idle/07.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/07.png',
+   'DATA'),
+  ('data/images/entities/player/idle/08.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/08.png',
+   'DATA'),
+  ('data/images/entities/player/idle/09.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/09.png',
+   'DATA'),
+  ('data/images/entities/player/idle/10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/10.png',
+   'DATA'),
+  ('data/images/entities/player/idle/11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/11.png',
+   'DATA'),
+  ('data/images/entities/player/idle/12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/12.png',
+   'DATA'),
+  ('data/images/entities/player/idle/13.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/13.png',
+   'DATA'),
+  ('data/images/entities/player/idle/14.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/14.png',
+   'DATA'),
+  ('data/images/entities/player/idle/15.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/15.png',
+   'DATA'),
+  ('data/images/entities/player/idle/16.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/16.png',
+   'DATA'),
+  ('data/images/entities/player/idle/17.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/17.png',
+   'DATA'),
+  ('data/images/entities/player/idle/18.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/18.png',
+   'DATA'),
+  ('data/images/entities/player/idle/19.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/19.png',
+   'DATA'),
+  ('data/images/entities/player/idle/20.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/20.png',
+   'DATA'),
+  ('data/images/entities/player/idle/21.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/idle/21.png',
+   'DATA'),
+  ('data/images/entities/player/jump/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/jump/0.png',
+   'DATA'),
+  ('data/images/entities/player/run/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/run/0.png',
+   'DATA'),
+  ('data/images/entities/player/run/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/run/1.png',
+   'DATA'),
+  ('data/images/entities/player/run/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/run/2.png',
+   'DATA'),
+  ('data/images/entities/player/run/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/run/3.png',
+   'DATA'),
+  ('data/images/entities/player/run/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/run/4.png',
+   'DATA'),
+  ('data/images/entities/player/run/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/run/5.png',
+   'DATA'),
+  ('data/images/entities/player/run/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/run/6.png',
+   'DATA'),
+  ('data/images/entities/player/run/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/run/7.png',
+   'DATA'),
+  ('data/images/entities/player/slide/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/slide/0.png',
+   'DATA'),
+  ('data/images/entities/player/wall_slide/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/player/wall_slide/0.png',
+   'DATA'),
+  ('data/images/entities/portal/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/portal/0.png',
+   'DATA'),
+  ('data/images/entities/portal/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/portal/1.png',
+   'DATA'),
+  ('data/images/entities/portal/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/portal/2.png',
+   'DATA'),
+  ('data/images/entities/portal/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/portal/3.png',
+   'DATA'),
+  ('data/images/entities/portal/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/portal/4.png',
+   'DATA'),
+  ('data/images/entities/portal/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/portal/5.png',
+   'DATA'),
+  ('data/images/entities/portal/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/portal/6.png',
+   'DATA'),
+  ('data/images/entities/portal/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/entities/portal/7.png',
+   'DATA'),
+  ('data/images/icons/player.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/icons/player.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/00.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/01.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/02.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/03.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/04.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/05.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/06.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/07.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/07.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/08.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/08.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/09.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/09.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/10.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/11.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/12.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/13.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/13.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/14.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/14.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/15.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/15.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/16.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/16.png',
+   'DATA'),
+  ('data/images/particles/cherry_leaf/17.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/cherry_leaf/17.png',
+   'DATA'),
+  ('data/images/particles/leaf/00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/00.png',
+   'DATA'),
+  ('data/images/particles/leaf/01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/01.png',
+   'DATA'),
+  ('data/images/particles/leaf/02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/02.png',
+   'DATA'),
+  ('data/images/particles/leaf/03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/03.png',
+   'DATA'),
+  ('data/images/particles/leaf/04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/04.png',
+   'DATA'),
+  ('data/images/particles/leaf/05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/05.png',
+   'DATA'),
+  ('data/images/particles/leaf/06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/06.png',
+   'DATA'),
+  ('data/images/particles/leaf/07.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/07.png',
+   'DATA'),
+  ('data/images/particles/leaf/08.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/08.png',
+   'DATA'),
+  ('data/images/particles/leaf/09.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/09.png',
+   'DATA'),
+  ('data/images/particles/leaf/10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/10.png',
+   'DATA'),
+  ('data/images/particles/leaf/11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/11.png',
+   'DATA'),
+  ('data/images/particles/leaf/12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/12.png',
+   'DATA'),
+  ('data/images/particles/leaf/13.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/13.png',
+   'DATA'),
+  ('data/images/particles/leaf/14.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/14.png',
+   'DATA'),
+  ('data/images/particles/leaf/15.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/15.png',
+   'DATA'),
+  ('data/images/particles/leaf/16.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/16.png',
+   'DATA'),
+  ('data/images/particles/leaf/17.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/leaf/17.png',
+   'DATA'),
+  ('data/images/particles/particle/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/particle/0.png',
+   'DATA'),
+  ('data/images/particles/particle/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/particle/1.png',
+   'DATA'),
+  ('data/images/particles/particle/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/particle/2.png',
+   'DATA'),
+  ('data/images/particles/particle/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/particle/3.png',
+   'DATA'),
+  ('data/images/particles/particle1/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/particle1/0.png',
+   'DATA'),
+  ('data/images/particles/particle1/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/particle1/1.png',
+   'DATA'),
+  ('data/images/particles/particle1/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/particle1/2.png',
+   'DATA'),
+  ('data/images/particles/particle1/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/particles/particle1/3.png',
+   'DATA'),
+  ('data/images/speech_bubble.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/speech_bubble.png',
+   'DATA'),
+  ('data/images/tiles/alt_grass/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/alt_grass/0.png',
+   'DATA'),
+  ('data/images/tiles/alt_grass/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/alt_grass/1.png',
+   'DATA'),
+  ('data/images/tiles/alt_grass/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/alt_grass/2.png',
+   'DATA'),
+  ('data/images/tiles/alt_grass/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/alt_grass/3.png',
+   'DATA'),
+  ('data/images/tiles/alt_grass/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/alt_grass/4.png',
+   'DATA'),
+  ('data/images/tiles/alt_grass/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/alt_grass/5.png',
+   'DATA'),
+  ('data/images/tiles/alt_grass/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/alt_grass/6.png',
+   'DATA'),
+  ('data/images/tiles/alt_grass/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/alt_grass/7.png',
+   'DATA'),
+  ('data/images/tiles/alt_large_decor_1/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/alt_large_decor_1/0.png',
+   'DATA'),
+  ('data/images/tiles/alt_large_decor_1/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/alt_large_decor_1/1.png',
+   'DATA'),
+  ('data/images/tiles/alt_large_decor_1/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/alt_large_decor_1/3.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/0.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/1.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/10.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/10.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/11.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/11.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/12.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/12.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/2.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/3.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/4.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/5.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/6.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/7.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/8.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/8.png',
+   'DATA'),
+  ('data/images/tiles/bgtiles/9.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bgtiles/9.png',
+   'DATA'),
+  ('data/images/tiles/brick/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/brick/0.png',
+   'DATA'),
+  ('data/images/tiles/brick/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/brick/1.png',
+   'DATA'),
+  ('data/images/tiles/brick/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/brick/2.png',
+   'DATA'),
+  ('data/images/tiles/brick/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/brick/3.png',
+   'DATA'),
+  ('data/images/tiles/bridge/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bridge/0.png',
+   'DATA'),
+  ('data/images/tiles/bridge/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/bridge/1.png',
+   'DATA'),
+  ('data/images/tiles/buildings/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/buildings/0.png',
+   'DATA'),
+  ('data/images/tiles/buildings/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/buildings/1.png',
+   'DATA'),
+  ('data/images/tiles/buildings/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/buildings/2.png',
+   'DATA'),
+  ('data/images/tiles/buildings/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/buildings/3.png',
+   'DATA'),
+  ('data/images/tiles/buildings/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/buildings/4.png',
+   'DATA'),
+  ('data/images/tiles/buildings/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/buildings/5.png',
+   'DATA'),
+  ('data/images/tiles/buildings/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/buildings/6.png',
+   'DATA'),
+  ('data/images/tiles/buildings/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/buildings/7.png',
+   'DATA'),
+  ('data/images/tiles/buildings/8.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/buildings/8.png',
+   'DATA'),
+  ('data/images/tiles/buildings/9.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/buildings/9.png',
+   'DATA'),
+  ('data/images/tiles/cave_stone/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/cave_stone/0.png',
+   'DATA'),
+  ('data/images/tiles/cave_stone/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/cave_stone/1.png',
+   'DATA'),
+  ('data/images/tiles/cave_stone/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/cave_stone/2.png',
+   'DATA'),
+  ('data/images/tiles/cave_stone/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/cave_stone/3.png',
+   'DATA'),
+  ('data/images/tiles/cave_stone/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/cave_stone/4.png',
+   'DATA'),
+  ('data/images/tiles/cave_stone/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/cave_stone/5.png',
+   'DATA'),
+  ('data/images/tiles/cave_stone/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/cave_stone/6.png',
+   'DATA'),
+  ('data/images/tiles/cave_stone/7.png.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/cave_stone/7.png.png',
+   'DATA'),
+  ('data/images/tiles/cave_stone/8.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/cave_stone/8.png',
+   'DATA'),
+  ('data/images/tiles/decor/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/decor/0.png',
+   'DATA'),
+  ('data/images/tiles/decor/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/decor/1.png',
+   'DATA'),
+  ('data/images/tiles/decor/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/decor/2.png',
+   'DATA'),
+  ('data/images/tiles/decor/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/decor/3.png',
+   'DATA'),
+  ('data/images/tiles/decor/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/decor/4.png',
+   'DATA'),
+  ('data/images/tiles/decor/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/decor/5.png',
+   'DATA'),
+  ('data/images/tiles/decor/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/decor/6.png',
+   'DATA'),
+  ('data/images/tiles/decor/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/decor/7.png',
+   'DATA'),
+  ('data/images/tiles/decor/8.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/decor/8.png',
+   'DATA'),
+  ('data/images/tiles/decor/9.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/decor/9.png',
+   'DATA'),
+  ('data/images/tiles/dirt/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/dirt/0.png',
+   'DATA'),
+  ('data/images/tiles/dirt/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/dirt/1.png',
+   'DATA'),
+  ('data/images/tiles/dirt/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/dirt/2.png',
+   'DATA'),
+  ('data/images/tiles/dirt/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/dirt/3.png',
+   'DATA'),
+  ('data/images/tiles/dirt/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/dirt/4.png',
+   'DATA'),
+  ('data/images/tiles/dirt/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/dirt/5.png',
+   'DATA'),
+  ('data/images/tiles/dirt/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/dirt/6.png',
+   'DATA'),
+  ('data/images/tiles/dirt/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/dirt/7.png',
+   'DATA'),
+  ('data/images/tiles/grass/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass/0.png',
+   'DATA'),
+  ('data/images/tiles/grass/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass/1.png',
+   'DATA'),
+  ('data/images/tiles/grass/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass/2.png',
+   'DATA'),
+  ('data/images/tiles/grass/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass/3.png',
+   'DATA'),
+  ('data/images/tiles/grass/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass/4.png',
+   'DATA'),
+  ('data/images/tiles/grass/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass/5.png',
+   'DATA'),
+  ('data/images/tiles/grass/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass/6.png',
+   'DATA'),
+  ('data/images/tiles/grass/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass/7.png',
+   'DATA'),
+  ('data/images/tiles/grass2/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass2/0.png',
+   'DATA'),
+  ('data/images/tiles/grass2/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass2/1.png',
+   'DATA'),
+  ('data/images/tiles/grass2/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass2/2.png',
+   'DATA'),
+  ('data/images/tiles/grass2/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass2/3.png',
+   'DATA'),
+  ('data/images/tiles/grass2/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass2/4.png',
+   'DATA'),
+  ('data/images/tiles/grass2/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass2/5.png',
+   'DATA'),
+  ('data/images/tiles/grass2/6.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass2/6.png',
+   'DATA'),
+  ('data/images/tiles/grass2/7.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/grass2/7.png',
+   'DATA'),
+  ('data/images/tiles/large_decor/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/large_decor/0.png',
+   'DATA'),
+  ('data/images/tiles/large_decor/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/large_decor/1.png',
+   'DATA'),
+  ('data/images/tiles/large_decor/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/large_decor/2.png',
+   'DATA'),
+  ('data/images/tiles/large_decor/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/large_decor/3.png',
+   'DATA'),
+  ('data/images/tiles/large_decor/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/large_decor/4.png',
+   'DATA'),
+  ('data/images/tiles/large_decor/5.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/large_decor/5.png',
+   'DATA'),
+  ('data/images/tiles/signposts/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/signposts/0.png',
+   'DATA'),
+  ('data/images/tiles/signposts/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/signposts/1.png',
+   'DATA'),
+  ('data/images/tiles/spawners/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/spawners/0.png',
+   'DATA'),
+  ('data/images/tiles/spawners/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/spawners/1.png',
+   'DATA'),
+  ('data/images/tiles/spawners/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/spawners/2.png',
+   'DATA'),
+  ('data/images/tiles/spawners/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/spawners/3.png',
+   'DATA'),
+  ('data/images/tiles/spawners/4.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/spawners/4.png',
+   'DATA'),
+  ('data/images/tiles/trees/0.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/trees/0.png',
+   'DATA'),
+  ('data/images/tiles/trees/1.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/trees/1.png',
+   'DATA'),
+  ('data/images/tiles/trees/2.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/trees/2.png',
+   'DATA'),
+  ('data/images/tiles/trees/3.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/trees/3.png',
+   'DATA'),
+  ('data/images/tiles/weeds/grass_00.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/weeds/grass_00.png',
+   'DATA'),
+  ('data/images/tiles/weeds/grass_01.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/weeds/grass_01.png',
+   'DATA'),
+  ('data/images/tiles/weeds/grass_02.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/weeds/grass_02.png',
+   'DATA'),
+  ('data/images/tiles/weeds/grass_03.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/weeds/grass_03.png',
+   'DATA'),
+  ('data/images/tiles/weeds/grass_04.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/weeds/grass_04.png',
+   'DATA'),
+  ('data/images/tiles/weeds/grass_05.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/weeds/grass_05.png',
+   'DATA'),
+  ('data/images/tiles/weeds/grass_06.png',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tiles/weeds/grass_06.png',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-0.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-0.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-1.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-1.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-10.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-10.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-11.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-11.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-12.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-12.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-13.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-13.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-14.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-14.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-15.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-15.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-16.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-16.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-17.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-17.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-18.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-18.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-19.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-19.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-2.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-2.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-20.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-20.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-21.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-21.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-22.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-22.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-23.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-23.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-24.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-24.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-25.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-25.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-26.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-26.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-27.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-27.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-28.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-28.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-29.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-29.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-3.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-3.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-4.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-4.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-5.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-5.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-6.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-6.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-7.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-7.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-8.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-8.tiff',
+   'DATA'),
+  ('data/images/tts/wooded trail, Ryan Haight-9.tiff',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/images/tts/wooded trail, Ryan '
+   'Haight-9.tiff',
+   'DATA'),
+  ('data/maps/0.json',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/maps/0.json',
+   'DATA'),
+  ('data/maps/1.json',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/maps/1.json',
+   'DATA'),
+  ('data/maps/2.json',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/maps/2.json',
+   'DATA'),
+  ('data/maps/__pycache__/utils.cpython-312.pyc',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/maps/__pycache__/utils.cpython-312.pyc',
+   'DATA'),
+  ('data/maps/alt.json',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/maps/alt.json',
+   'DATA'),
+  ('data/music.wav',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/music.wav',
+   'DATA'),
+  ('data/music/Decayed_in_the_Darkness.mp3',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/music/Decayed_in_the_Darkness.mp3',
+   'DATA'),
+  ('data/music/Land_of_Darkness.mp3',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/music/Land_of_Darkness.mp3',
+   'DATA'),
+  ('data/music/forest_ambience.mp3',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/music/forest_ambience.mp3',
+   'DATA'),
+  ('data/music/lvl1_test.mp3',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/music/lvl1_test.mp3',
+   'DATA'),
+  ('data/music/menu_screen_test.wav',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/music/menu_screen_test.wav',
+   'DATA'),
+  ('data/music/village.mp3',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/music/village.mp3',
+   'DATA'),
+  ('data/sfx/ambience.wav',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/sfx/ambience.wav',
+   'DATA'),
+  ('data/sfx/dash.wav',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/sfx/dash.wav',
+   'DATA'),
+  ('data/sfx/hit.wav',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/sfx/hit.wav',
+   'DATA'),
+  ('data/sfx/jump.wav',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/sfx/jump.wav',
+   'DATA'),
+  ('data/sfx/shoot.wav',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/data/sfx/shoot.wav',
+   'DATA'),
+  ('base_library.zip',
+   '/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
+   'ATAR/Forestfall/Forestfall/build/Forrestfall/base_library.zip',
+   'DATA'),
+  ('pygame/freesansbold.ttf',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/freesansbold.ttf',
+   'DATA'),
+  ('pygame/pygame_icon_mac.bmp',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pygame/pygame_icon_mac.bmp',
+   'DATA'),
+  ('Python', 'Python.framework/Versions/3.11/Python', 'SYMLINK'),
+  ('libgfortran.5.dylib', 'numpy/.dylibs/libgfortran.5.dylib', 'SYMLINK'),
+  ('libquadmath.0.dylib', 'numpy/.dylibs/libquadmath.0.dylib', 'SYMLINK'),
+  ('libopenblas64_.0.dylib', 'numpy/.dylibs/libopenblas64_.0.dylib', 'SYMLINK'),
+  ('libgcc_s.1.1.dylib', 'numpy/.dylibs/libgcc_s.1.1.dylib', 'SYMLINK'),
+  ('libSDL2_mixer-2.0.0.dylib',
+   'pygame/.dylibs/libSDL2_mixer-2.0.0.dylib',
+   'SYMLINK'),
+  ('libSDL2-2.0.0.dylib', 'pygame/.dylibs/libSDL2-2.0.0.dylib', 'SYMLINK'),
+  ('libSDL2_image-2.0.0.dylib',
+   'pygame/.dylibs/libSDL2_image-2.0.0.dylib',
+   'SYMLINK'),
+  ('libjpeg.62.3.0.dylib', 'pygame/.dylibs/libjpeg.62.3.0.dylib', 'SYMLINK'),
+  ('libpng16.16.dylib', 'pygame/.dylibs/libpng16.16.dylib', 'SYMLINK'),
+  ('libSDL2_ttf-2.0.0.dylib',
+   'pygame/.dylibs/libSDL2_ttf-2.0.0.dylib',
+   'SYMLINK'),
+  ('libfreetype.6.dylib', 'pygame/.dylibs/libfreetype.6.dylib', 'SYMLINK'),
+  ('libFLAC.8.dylib', 'pygame/.dylibs/libFLAC.8.dylib', 'SYMLINK'),
+  ('libopusfile.0.dylib', 'pygame/.dylibs/libopusfile.0.dylib', 'SYMLINK'),
+  ('libopus.0.dylib', 'pygame/.dylibs/libopus.0.dylib', 'SYMLINK'),
+  ('libvorbisfile.3.3.8.dylib',
+   'pygame/.dylibs/libvorbisfile.3.3.8.dylib',
+   'SYMLINK'),
+  ('libmpg123.0.dylib', 'pygame/.dylibs/libmpg123.0.dylib', 'SYMLINK'),
+  ('libogg.0.8.5.dylib', 'pygame/.dylibs/libogg.0.8.5.dylib', 'SYMLINK'),
+  ('libfluidsynth.3.1.1.dylib',
+   'pygame/.dylibs/libfluidsynth.3.1.1.dylib',
+   'SYMLINK'),
+  ('libtiff.5.8.0.dylib', 'pygame/.dylibs/libtiff.5.8.0.dylib', 'SYMLINK'),
+  ('libsharpyuv.0.dylib', 'pygame/.dylibs/libsharpyuv.0.dylib', 'SYMLINK'),
+  ('libz.1.2.11.zlib-ng.dylib',
+   'pygame/.dylibs/libz.1.2.11.zlib-ng.dylib',
+   'SYMLINK'),
+  ('libwebp.7.dylib', 'pygame/.dylibs/libwebp.7.dylib', 'SYMLINK'),
+  ('libbrotlidec.1.0.9.dylib',
+   'pygame/.dylibs/libbrotlidec.1.0.9.dylib',
+   'SYMLINK'),
+  ('libvorbis.0.4.9.dylib', 'pygame/.dylibs/libvorbis.0.4.9.dylib', 'SYMLINK'),
+  ('libsndfile.1.0.34.dylib',
+   'pygame/.dylibs/libsndfile.1.0.34.dylib',
+   'SYMLINK'),
+  ('libglib-2.0.0.dylib', 'pygame/.dylibs/libglib-2.0.0.dylib', 'SYMLINK'),
+  ('libgthread-2.0.0.dylib',
+   'pygame/.dylibs/libgthread-2.0.0.dylib',
+   'SYMLINK'),
+  ('libintl.8.dylib', 'pygame/.dylibs/libintl.8.dylib', 'SYMLINK'),
+  ('libbrotlicommon.1.0.9.dylib',
+   'pygame/.dylibs/libbrotlicommon.1.0.9.dylib',
+   'SYMLINK'),
+  ('libvorbisenc.2.0.12.dylib',
+   'pygame/.dylibs/libvorbisenc.2.0.12.dylib',
+   'SYMLINK'),
+  ('Python.framework/Python', 'Versions/Current/Python', 'SYMLINK'),
+  ('Python.framework/Resources', 'Versions/Current/Resources', 'SYMLINK'),
+  ('Python.framework/Versions/3.11/Resources/Info.plist',
+   '/Library/Frameworks/Python.framework/Versions/3.11/Resources/Info.plist',
+   'DATA'),
+  ('Python.framework/Versions/Current', '3.11', 'SYMLINK')],)

@@ -34,4 +34,22 @@ class StateManager:
             self.current_state.exit_state()
             self.current_state = None
 
+    def restart_state(self, state_name=None):
+        # restarts the given state or the current state if no state name is there
+        if state_name:
+            # restart a specific state by name 
+            if state_name in self.states:
+                self.states[state_name].exit_state()
+                # reinitialize the state (assuming the state class has an initialization method)
+                self.states[state_name].__init__(self.game)
+                self.change_state(state_name)
+            else:
+                # Restart the current state
+                if self.current_state:
+                    current_state_name = [name for name, state in self.states.items() if state == self.current_state][0]
+                    self.current_state.exit_state()
+                    self.current_state.__init__(self.game)
+                    self.change_state(current_state_name)
+
+
 

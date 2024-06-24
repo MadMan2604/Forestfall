@@ -19,7 +19,7 @@ class TitleScreen(BaseState):
 
         # Define music
         pygame.mixer.init()
-        tts_music = 'data/music/menu_screen_test.wav'
+        tts_music = 'data/music/Decayed_in_the_Darkness.mp3'
         pygame.mixer.music.load(tts_music)
 
     def stop_music(self):

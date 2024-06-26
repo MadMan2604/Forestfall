@@ -7,8 +7,15 @@ a = Analysis(
     ['main.py'],
     pathex=['/Users/madan/Documents/Year 12 2024/Year 12 Computer Science ATAR/Forestfall/Forestfall'],
     binaries=[],
-    datas=[('/Users/madan/Documents/Year 12 2024/Year 12 Computer Science ATAR/Forestfall/Forestfall/data', 'data')],
-    hiddenimports=['other_module'],
+    datas=[
+        ('/Users/madan/Documents/Year 12 2024/Year 12 Computer Science ATAR/Forestfall/Forestfall/data', 'data'),
+        # Add more files as needed
+    ],
+    hiddenimports=[
+        'your_additional_script1',
+        'your_additional_script2',
+        # Add more scripts as needed
+    ],
     hookspath=[],
     runtime_hooks=[],
     excludes=[],
@@ -28,7 +35,7 @@ exe = EXE(
     bootloader_ignore_signals=False,
     strip=False,
     upx=True,
-    console=True,
+    console=False,  # Set to True if you want a console to appear
 )
 coll = COLLECT(
     exe,
@@ -39,4 +46,10 @@ coll = COLLECT(
     upx=True,
     upx_exclude=[],
     name='Forestfall',
+)
+app = BUNDLE(
+    coll,
+    name='Forestfall.app',
+    icon=None,
+    bundle_identifier=None,
 )

@@ -18,6 +18,7 @@ from states.base_state import BaseState
 from scripts.rect_button import RectButton
 #from scripts.grass import GrassManager
 from scripts.animated_button import AnimatedButton
+from scripts.circle_button import CircleButton
 
 # this is the portal class using the particles class as reference 
 
@@ -383,11 +384,12 @@ class InGame(BaseState):
                     self.pause = not self.pause # resume the game
                     pygame.mouse.set_visible(False)
                 if restart_button.is_clicked():
-                    self.level = 0
+                    """self.level = 0
                     self.load_level(0) # restarts the run from the very first room 
                     self.player.health = 200
                     self.player.stamina = 200
-                    self.pause = not self.pause # closes the pause menu to restart the game 
+                    self.pause = not self.pause # closes the pause menu to restart the game"""
+                    self.game.state_manager.restart_state("game") 
                 if options_button.is_clicked():
                     self.game.state_manager.change_state("options_menu") # open the options menu 
                 if quit_button.is_clicked():
@@ -411,10 +413,21 @@ class InGame(BaseState):
 
                 # perk menu gfx setup 
                 self.perk_surf = pygame.Surface((WIDTH, HEIGHT))
-                self.perk_surf.fill((0, 0, 0))
+                self.perk_surf.fill((20, 10, 30))
                 self.perk_surf.set_alpha(15) # the transparency effect for the background
 
+                self.speed_1_circle = CircleButton(self.perk_surf, WHITE, 700, 100, 20, )
+
+
+                if self.speed_1_circle.is_clicked():
+                    print("speed increased")
+                
+                
+                        
+                self.speed_1_circle.draw()
                 self.screen.blit(self.perk_surf, (0, 0))
+
+                pygame.display.update()
 
 
 

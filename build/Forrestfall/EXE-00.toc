@@ -1,6 +1,6 @@
 ('/Users/madan/Documents/Year 12 2024/Year 12 Computer Science '
  'ATAR/Forestfall/Forestfall/build/Forrestfall/Forestfall',
- True,
+ False,
  False,
  True,
  None,
@@ -64,8 +64,8 @@
  [],
  False,
  False,
- 1719205475,
- [('run',
-   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
+ 1719205812,
+ [('runw',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/PyInstaller/bootloader/Darwin-64bit/runw',
    'EXECUTABLE')],
  '/Library/Frameworks/Python.framework/Versions/3.11/Python')

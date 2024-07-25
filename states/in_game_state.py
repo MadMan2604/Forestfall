@@ -195,7 +195,8 @@ class InGame(BaseState):
         if not pygame.mixer.music.get_busy():
             pygame.mixer.music.play(-1)
         self.pause = False 
-        self.perk_menu = False 
+        self.perks = False 
+        
 
         while True:
             
@@ -215,7 +216,8 @@ class InGame(BaseState):
                     if event.key == pygame.K_ESCAPE:
                         self.pause = not self.pause
                     if event.key == pygame.K_TAB:
-                        self.perk_menu = not self.perk_menu
+                        self.perks = not self.perks
+                        
                         
                 if event.type == pygame.KEYUP:
                     if event.key == pygame.K_a:
@@ -229,7 +231,7 @@ class InGame(BaseState):
                 
            
             
-            if self.pause == False and self.perk_menu == False:
+            if self.pause == False and self.perks == False:
                 if self.level == 0:
                     self.display.blit(self.background1, (0, -100))
                 if self.level == 1:
@@ -308,7 +310,7 @@ class InGame(BaseState):
                         self.projectiles.remove(projectile)
                         for i in range(4):
                             self.sparks.append(Spark(projectile[0], random.random() - 0.5 + (math.pi if projectile[1] > 0 else 0), 2 + random.random()))
-                    elif projectile[2] > 360:
+                    elif projectile[2] > 360:   
                         self.projectiles.remove(projectile)
                     elif abs(self.player.dashing) < 50:
                         if self.player.rect().collidepoint(projectile[0]):
@@ -407,28 +409,27 @@ class InGame(BaseState):
 
                 pygame.display.update()
 
-            if self.perk_menu == True:
+            if self.perks == True: 
 
                 pygame.mouse.set_visible(True)
+                self.perks_surf = pygame.Surface((WIDTH, HEIGHT))
+                self.perks_surf.fill((65, 72, 89))
+                self.perks_surf.set_alpha(15) # set the transparency of the perk menu's background 
 
-                # perk menu gfx setup 
-                self.perk_surf = pygame.Surface((WIDTH, HEIGHT))
-                self.perk_surf.fill((20, 10, 30))
-                self.perk_surf.set_alpha(15) # the transparency effect for the background
+                # set up the buttons to claim perks
+                speed_button = CircleButton(self.screen, (WHITE), 700, 100, 50, IMAGE_PATH + 'icons/speed.png', (GREEN))
 
-                self.speed_1_circle = CircleButton(self.perk_surf, WHITE, 700, 100, 20, )
-
-
-                if self.speed_1_circle.is_clicked():
+                if speed_button.is_clicked(events) and self.player.points == 50:
                     print("speed increased")
+                else:
+                    print("not enough points")
                 
-                
-                        
-                self.speed_1_circle.draw()
-                self.screen.blit(self.perk_surf, (0, 0))
+                speed_button.draw()
+
+                self.screen.blit(self.perks_surf, (0, 0))
 
                 pygame.display.update()
-
+            
 
 
 

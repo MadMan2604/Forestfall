@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="Economy.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure pragmas browser query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="2788"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="GOODS_INFO" custom_title="0" dock_id="1" table="4,10:mainGOODS_INFO"/><dock_state state="000000ff00000000fd00000001000000020000041b00000371fc0100000001fb000000160064006f0063006b00420072006f007700730065003101000000000000041b0000011800ffffff000002580000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="GOODS_INFO" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="63"/><column index="2" value="115"/><column index="3" value="41"/><column index="4" value="39"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">CREATE TABLE PLAYER_INFO (
+	PlayerID INT(255) PRIMARY KEY,
+	Player_Name TEXT(255),
+	Player_Level INT(255),
+	Player_Points INT(4),
+	WalletID INT(255),
+	FOREIGN KEY(WalletID) REFERENCES WALLET_INFO(WalletID)
+);
+
+INSERT INTO </sql><sql name="SQL 2*">CREATE TABLE WALLET_INFO (
+	WalletID INT(255) PRIMARY KEY,
+	Wallet_Name TEXT(255),
+	Wallet_Balance TEXT(255),
+	CurrencyID INT(255), 
+	FOREIGN KEY (CurrencyID) REFERENCES CURRENCY_INFO(CurrencyID)
+);</sql><sql name="SQL 3*">CREATE TABLE CURRENCY_INFO (
+	CurrencyID INT(255) PRIMARY KEY,
+	Currency_Name TEXT(255),
+	Currency_Value INT(255),
+	Currency_Amount INT(25)
+);</sql><sql name="SQL 4*">CREATE TABLE STORE_INFO (
+	StoreID INT(255) PRIMARY KEY,
+	CurrencyID INT(255),
+	NPCID INT(255),
+	GOODSID INT(255),
+	FOREIGN KEY (CurrencyID) REFERENCES CURRENCY_INFO(CurrencyID),
+	FOREIGN KEY (NPCID) REFERENCES NPC_INFO(NPCID),
+	FOREIGN KEY (GOODSID) REFERENCES GOODS_INFO(GOODSID)
+);</sql><sql name="SQL 5*">CREATE TABLE VILLAGE_INFO (
+	VillageID INT(255) PRIMARY KEY,
+	StoreID INT(255),
+	NPCID INT(255),
+	FOREIGN KEY (StoreID) REFERENCES STORE_INFO(StoreID),
+	FOREIGN KEY (NPCID) REFERENCES NPC_INFO(NPCID)
+);</sql><sql name="SQL 6*">CREATE TABLE GAME_INFO (
+	GameID INT(255) PRIMARY KEY,
+	PlayerID INT(255),
+	StoreID INT(255),
+	GOODSID INT(255),
+	NPCID INT(255),
+	VillageID INT(255),
+	FOREIGN KEY (PlayerID) REFERENCES PLAYER_INFO(CurrencyID),
+	FOREIGN KEY (StoreID) REFERENCES STORE_INFO(StoreID),
+	FOREIGN KEY (GOODSID) REFERENCES GOODS_INFO(GOODSID),
+	FOREIGN KEY (NPCID) REFERENCES NPC_INFO(NPCID),
+	FOREIGN KEY (VillageID) REFERENCES VILLAGE_INFO(VillageID)
+);
+ </sql><current_tab id="0"/></tab_sql></sqlb_project>
